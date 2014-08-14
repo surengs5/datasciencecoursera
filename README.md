@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Coursera - John Hopkins Data Scientist's Tool Box course learning repository
+Coursera - Johns Hopkins Data Scientist's Tool Box - GitHub learning repository
